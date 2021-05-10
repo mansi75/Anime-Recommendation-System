@@ -1,4 +1,4 @@
-<p><img src="anime.jpg" /></p>
+<p><img src="anime.jpg" width="80%" /></p>
 <p>
 <h1>Anime Recommendation System</h1>
 
