@@ -7,7 +7,7 @@
 
 * [About](#About)
 * [Features](#features)
-*  [Usage](#usage)
+*  [Example Usage](#usage)
 
 
 <a id="About"></a>
@@ -21,8 +21,9 @@ This project is anime recommendation system based on the content based filtering
 - Get the top ten anime based on your query
 - Get top 10 Anime based on the rating given by the users
 
-##  Usage
+##  Example Usage
 <a id="usage-basic"></a>
+Use the following method to get recommendation. 
 ```python
 get_recommendations("name of the anime")
 ```
