@@ -10,6 +10,7 @@
 * [Features](#features)
 * [Dataset](#dataset)
 *  [Example Usage](#usage)
+*  [License](#license)
 
 
 <a id="About"></a>
@@ -32,6 +33,9 @@ Use the following method to get recommendation.
 ```python
 get_recommendations("name of the anime")
 ```
+<a id="license"></a>
+## 📜 License
+This software is open source, licensed under the [MIT License](https://github.com/mansi75/Anime-Recommendation-System/blob/master/LICENSE).
 
 
 
